@@ -1,0 +1,6 @@
+{
+  "name": "AzureCalc - Modern Scientific Calculator & Unit Converter",
+  "description": "A high-precision scientific calculator with multi-category unit converter, persistent calculation history, and smooth animations in an elegant blue theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
